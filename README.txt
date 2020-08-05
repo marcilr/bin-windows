@@ -27,7 +27,15 @@ Add to the PATH on Windows 10
 
 Filelist
 ========
-svn.exe, version 1.10.6 (r1863367)
+start-apache.bat
+  Start apache web server
+
+stop-apache.bat
+  Stop apache web server
+
+svn.exe
+  svn, version 1.10.6 (r1863367)
+  compiled Aug  4 2019, 14:59:59 on x86-microsoft-windows
   Subversion binary client
   Copied from C:\Program Files\TortoiseSVN-2\bin\svn.exe
   that was installed to local workstation on
